@@ -1,7 +1,7 @@
 # symptom-predictor-api
 Making Disease Diagnosis fast than faster with Dr. Ding with the help of an API
 
-- A API was made in Python powered by flask 
+- A API was made in Python powered by [flask app](https://github.com/dev-Roshan-lab/symptom-predictor/blob/master/app.py)
 - A Request in Sent through the Application to a heroku server
 - the response is show on a text view 
 
