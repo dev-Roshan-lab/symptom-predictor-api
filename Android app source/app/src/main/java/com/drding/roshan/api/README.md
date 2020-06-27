@@ -1,6 +1,6 @@
 # Android App
 - Here we Send Request in order to 'GET' the Disease name
-- [url of sample request](https://symptom-predictor-api.herokuapp.com/pred/constipation/back%20pain/runny%20nose/congestion/abdominal%20pain) is name of the website
+- [url of sample request](https://symptom-predictor-api.herokuapp.com/rf/constipation/back%20pain/runny%20nose/congestion/abdominal%20pain) 
 -  The symptoms are Passes through the Url 
 -  In the python source code the url structure is defined as '_/rf/sym1/sym2/sym3/sym4/sym5_' where _sym1_, _sym2_, _sym3_, _sym4_, _sym5_ are varibales through which symptoms are passed for prediction
 -  Other Symptoms include :
