@@ -26,4 +26,4 @@
         'silver like dusting','small dents in nails','inflammatory nails','blister','red sore around nose',
         'yellow crust ooze'
 
-- The website request code is situate in line no. 59 of the [main.java](https://github.com/dev-Roshan-lab/symptom-predictor-api/blob/master/Android%20app%20source/app/src/main/java/com/drding/roshan/api/MainActivity.java)
+- The website request code is located in line no. 59 of the [main.java](https://github.com/dev-Roshan-lab/symptom-predictor-api/blob/master/Android%20app%20source/app/src/main/java/com/drding/roshan/api/MainActivity.java)
